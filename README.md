@@ -28,3 +28,5 @@ AAAAA-BBBBB-CCCCC-DDDDD-EEEEE
 | Injection failed | Run as Administrator |
 | Cheat closes instantly | Delete `lukittu_cache.bin` and retry |
 | Antivirus blocks it | Add folder to exclusions |
+
+just reminder it wont work on amd computer because of driver mapper
